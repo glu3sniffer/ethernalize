@@ -91,9 +91,12 @@ The following is required to run the scripts
    ```sh
    npm install
    ```
-4. Create a .env file and add your public & private keys and the blast rpc url `.env`
+4. Create a .env file and add your public & private keys and the blast rpc url 
    ```sh
    touch .env
+   ```
+5. Add the following into the file
+   ```sh
    account1="0x..."
    account2="0x..."
    privatekey="..."
