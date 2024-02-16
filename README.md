@@ -8,8 +8,6 @@
 
 <!-- ETHERNALIZE -->
 
-* [![Ethernalize][Ethernalize.it]][Ethernalize-url]
-
 <br />
 <div align="center">
   <a href="https://github.com/glu3sniffer/ethernalize">
@@ -18,6 +16,7 @@
   <h3 align="center">Ethernalize</h3>
 </div>
 
+[![Ethernalize][Ethernalize.it]][Ethernalize-url]
 
 
 <!-- TABLE OF CONTENTS -->
