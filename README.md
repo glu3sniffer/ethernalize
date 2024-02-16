@@ -79,6 +79,11 @@ The following is required to run the scripts
   ```sh
   sudo apt install python3
   ```
+  * web3
+  ```sh
+  sudo apt install web3/pip3 install web3
+  
+  ```
 
 ### Installation
 
@@ -91,11 +96,16 @@ The following is required to run the scripts
    ```sh
    sudo apt install python3
    ```
-4. Create a .env file and add your public & private keys and the blast rpc url 
+4. Install Web3
+   ```sh
+  sudo apt install web3/pip3 install web3
+  ```
+
+5. Create a .env file and add your public & private keys and the blast rpc url 
    ```sh
    touch .env
    ```
-5. Add the following into the file
+6. Add the following into the file
    ```sh
    account1="0x..."
    account2="0x..."
