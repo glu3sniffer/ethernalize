@@ -89,7 +89,7 @@ The following is required to run the scripts
    ```
 3. Install Python
    ```sh
-   npm install
+   sudo apt install python3
    ```
 4. Create a .env file and add your public & private keys and the blast rpc url 
    ```sh
