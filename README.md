@@ -79,10 +79,13 @@ The following is required to run the scripts
   ```sh
   sudo apt install python3
   ```
-  * web3
+* web3
   ```sh
-  sudo apt install web3/pip3 install web3
-  
+  pip3 install web3
+  ```
+* dotenv
+  ```sh
+  python3 -m pip install python-dotenv
   ```
 
 ### Installation
@@ -100,12 +103,16 @@ The following is required to run the scripts
    ```sh
    sudo apt install web3/pip3 install web3
    ```
+5. Install Dotenv
+   ```sh
+   python3 -m pip install python-dotenv
+   ```
 
-5. Create a .env file and add your public & private keys and the blast rpc url 
+6. Create a .env file and add your public & private keys and the blast rpc url 
    ```sh
    touch .env
    ```
-6. Add the following into the file
+7. Add the following into the file
    ```sh
    account1="0x..."
    account2="0x..."
