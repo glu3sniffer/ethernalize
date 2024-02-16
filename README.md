@@ -98,8 +98,8 @@ The following is required to run the scripts
    ```
 4. Install Web3
    ```sh
-  sudo apt install web3/pip3 install web3
-  ```
+   sudo apt install web3/pip3 install web3
+   ```
 
 5. Create a .env file and add your public & private keys and the blast rpc url 
    ```sh
