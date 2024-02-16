@@ -8,7 +8,7 @@
 
 <!-- ETHERNALIZE -->
 
-
+* [![Ethernalize][Ethernalize.it]][Ethernalize-url]
 
 <br />
 <div align="center">
@@ -182,3 +182,5 @@ Contact (and follow us!) on Twitter - [@Ethernalize](https://twitter.com/your_us
 
 [Python.com]: https://www.python.org/static/img/python-logo.png
 [Python-url]: https://www.python.org
+[Ethernalize.it]: https://www.ethernalize.it/logo_dark.png
+[Ethernalize-url]: https://www.ethernalize.it
