@@ -160,7 +160,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Contact (and follow us!) on Twitter - [@Ethernalize](https://twitter.com/your_username)
+Contact (and follow us!) on Twitter - [@Ethernalize](https://twitter.com/ethernalizee)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
