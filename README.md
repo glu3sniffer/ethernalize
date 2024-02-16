@@ -13,10 +13,8 @@
   <a href="https://github.com/glu3sniffer/ethernalize">
     <a name="Ethernalize"></a>
   </a>
-  <h3 align="center">Ethernalize</h3>
+  <h3 align="center">[![Ethernalize][Ethernalize.it]][Ethernalize-url]</h3>
 </div>
-
-[![Ethernalize][Ethernalize.it]][Ethernalize-url]
 
 
 <!-- TABLE OF CONTENTS -->
